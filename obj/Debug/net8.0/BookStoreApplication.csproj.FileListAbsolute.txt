@@ -12,3 +12,4 @@ C:\Users\hp\Downloads\BookStoreApplication_Boilerplate_2\BookStoreApplication\ob
 C:\Users\hp\Downloads\BookStoreApplication_Boilerplate_2\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.pdb
 C:\Users\hp\Downloads\BookStoreApplication_Boilerplate_2\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.genruntimeconfig.cache
 C:\Users\hp\Downloads\BookStoreApplication_Boilerplate_2\BookStoreApplication\obj\Debug\net8.0\ref\BookStoreApplication.dll
+C:\Users\hp\Downloads\BookStoreApplication_Boilerplate_2\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.sourcelink.json
